@@ -1,3 +1,7 @@
+## 6.1.0
+
+* Updates GoogleSignIn iOS SDK to 9.0.
+
 ## 6.0.1
 
 * Returns configuration errors as `PlatformException`s in Dart instead of
